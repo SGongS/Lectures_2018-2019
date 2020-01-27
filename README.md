@@ -1,6 +1,6 @@
 # Lectures
 
-This folder gathers the I-Python notebooks used for the lecture SPAT0002-1.    
+This folder gathers the I-Python notebooks used for the lecture SPAT0002-1 during the academic year 2018-2019.    
 
 The reference book (lecture notes) associated to this lecture is:
 
